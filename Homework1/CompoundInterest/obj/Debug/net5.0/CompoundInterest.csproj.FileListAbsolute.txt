@@ -1,0 +1,64 @@
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\appsettings.json
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\CompoundInterest.exe
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\CompoundInterest.deps.json
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\CompoundInterest.runtimeconfig.json
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\CompoundInterest.runtimeconfig.dev.json
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\CompoundInterest.dll
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\ref\CompoundInterest.dll
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\CompoundInterest.pdb
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.csproj.AssemblyReference.cache
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.AssemblyInfoInputs.cache
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.AssemblyInfo.cs
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.csproj.CoreCompileInputs.cache
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\staticwebassets\CompoundInterest.StaticWebAssets.Manifest.cache
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\staticwebassets\CompoundInterest.StaticWebAssets.xml
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\scopedcss\bundle\CompoundInterest.styles.css
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.RazorTargetAssemblyInfo.cache
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.csproj.CopyComplete
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.dll
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\ref\CompoundInterest.dll
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.pdb
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.genruntimeconfig.cache
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\serha\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\bin\Debug\net5.0\appsettings.json
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\bin\Debug\net5.0\CompoundInterest.exe
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\bin\Debug\net5.0\CompoundInterest.deps.json
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\bin\Debug\net5.0\CompoundInterest.runtimeconfig.json
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\bin\Debug\net5.0\CompoundInterest.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\bin\Debug\net5.0\CompoundInterest.dll
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\bin\Debug\net5.0\ref\CompoundInterest.dll
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\bin\Debug\net5.0\CompoundInterest.pdb
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.AssemblyInfo.cs
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\obj\Debug\net5.0\staticwebassets\CompoundInterest.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\obj\Debug\net5.0\staticwebassets\CompoundInterest.StaticWebAssets.xml
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\obj\Debug\net5.0\scopedcss\bundle\CompoundInterest.styles.css
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.csproj.CopyComplete
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.dll
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\obj\Debug\net5.0\ref\CompoundInterest.dll
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.pdb
+C:\Users\Asus\Desktop\.Net Bootcamp\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.genruntimeconfig.cache
